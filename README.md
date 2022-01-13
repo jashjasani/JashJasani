@@ -28,5 +28,5 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashjasani&layout=compact" alt="jashjasani" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Bhargavi-hash&show_icons=true&include_all_commits=true" alt="jashjasani" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=jashjasani&show_icons=true&include_all_commits=true" alt="jashjasani" /></p>
 
