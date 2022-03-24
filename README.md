@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Blockchain and Cryptography**
 
-- 💬 Ask me about **Ethereum , hyperledger , javascript , node.js **
+- 💬 Ask me about **Ethereum , hyperledger , javascript , node.js**
 
 - 📫 How to reach me **jashjjj3@gmail.com**
 
