@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/kafiBased" target="blank"><img src="https://img.shields.io/twitter/follow/serialOfender?logo=twitter&style=for-the-badge" alt="ayejcube" /></a> </p>
 
-- 🔭 I’m currently working on **Portfolio website**
+- 🔭 I’m currently working on **Hyperledger**
 
 - 🌱 I’m currently learning **Blockchain and Cryptography**
 
