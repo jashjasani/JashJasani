@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/kafiBased" target="blank"><img src="https://img.shields.io/twitter/follow/kafiBased?logo=twitter&style=for-the-badge" alt="ayejcube" /></a> </p>
 
-- 🔭 I’m currently working on **Hyperledger**
+- 🔭 I’m currently working on **Web apps**
 
-- 🌱 I’m currently learning **Blockchain and Cryptography**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Ethereum , hyperledger , javascript , node.js**
 
