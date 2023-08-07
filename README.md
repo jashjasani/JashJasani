@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Ethereum , hyperledger , javascript , node.js**
+- 💬 Ask me about **transformers, finetuning, FastAPI, javascript , node.js**
 
 - 📫 How to reach me **jashjjj3@gmail.com**
 
