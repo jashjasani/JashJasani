@@ -3,17 +3,13 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jashjasani&label=Profile%20views&color=0e75b6&style=flat" alt="jashjasani" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kafiBased" target="blank"><img src="https://img.shields.io/twitter/follow/kafiBased?logo=twitter&style=for-the-badge" alt="ayejcube" /></a> </p>
+<p align="left"> <a href="https://twitter.com/jashdotckpt" target="blank"><img src="https://img.shields.io/twitter/follow/kafiBased?logo=twitter&style=for-the-badge" alt="jashdotckpt" /></a> </p>
 
 - 🔭 I’m currently working on **Web apps**
 
 - 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **transformers, finetuning, FastAPI, javascript , node.js**
-
-- 📫 How to reach me **jashjjj3@gmail.com**
-
-- ⚡ Fun fact **I love dark humour**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
