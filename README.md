@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jashjasani&label=Profile%20views&color=0e75b6&style=flat" alt="jashjasani" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jashdotckpt" target="blank"><img src="https://img.shields.io/twitter/follow/kafiBased?logo=twitter&style=for-the-badge" alt="jashdotckpt" /></a> </p>
+<p align="left"> <a href="https://twitter.com/jashdotckpt" target="blank"><img src="https://img.shields.io/twitter/follow/jashdotckpt?logo=twitter&style=for-the-badge" alt="jashdotckpt" /></a> </p>
 
 - 🔭 I’m currently working on **Web apps**
 
