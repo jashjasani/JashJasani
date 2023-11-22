@@ -11,6 +11,7 @@
 
 - 💬 Ask me about **transformers, finetuning, FastAPI, javascript , node.js**
 
+- Portfolio Link **https://www.upwork.com/freelancers/~018e24da4650cd7e12**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ayejcube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayejcube" height="30" width="40" /></a>
