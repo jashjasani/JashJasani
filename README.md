@@ -1,3 +1,3 @@
 Hello there
 
-python | C | js | Machine Learning | Deep Learning | Data Science
+python | js| C | Machine Learning | Deep Learning | Data Science
